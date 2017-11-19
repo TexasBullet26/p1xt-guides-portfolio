@@ -1,2 +1,5 @@
 # p1xt-guides-portfolio
-Projects, notes, coursework, etc. showing my progress regarding the p1xt-guides. Thank you to p1xt for the resources. 
+
+Contains all of my work going through the p1xt-guides. Currently starting the cs-wd-guide.
+
+Thank you to [p1xt](https://github.com/p1xt) for the resources.
